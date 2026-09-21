@@ -11,3 +11,6 @@ To run the program simply run ```python os_simulator.py``` in the terminal point
    <img width="640" height="40" alt="image" src="https://github.com/user-attachments/assets/c65032c5-d931-4ba7-a504-7e5f2b50da2e" />
 3. The program has fallbacks for when invalid input is received by the program
 4. ```CTRL + C``` to forcefully exit the program in the terminal
+
+
+Link for example screenshots: https://docs.google.com/document/d/1BvHPs1V5L0ctWBTBoZI4MbcOPcUnhzSZDrhUnvzjCEE/edit?usp=sharing
